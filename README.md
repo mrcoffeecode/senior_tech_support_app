@@ -1,7 +1,7 @@
 # senior_tech_support_app (Mr.Coffee Code aka Axell Martinez)
 App Project For Software Engineering
 
-This application uses Android Studio conneted with Firebase Realtime Database, Storage and uses Firebase UI and Gilde for Touch Features.
+This application uses Android Studio conneted with Firebase Realtime Database, Storage, Authentication and uses Firebase UI and Gilde for Touch Features.
 
 MainActivity.java  App Main Screen
 
